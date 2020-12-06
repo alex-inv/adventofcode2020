@@ -1,2 +1,4 @@
 # adventofcode2020
-Advent of Code 2020 solutions
+
+My solutions for Advent of Code 2020 challenge. Written in Python 3.
+https://adventofcode.com/2020/
